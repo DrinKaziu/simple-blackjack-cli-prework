@@ -46,7 +46,7 @@ end
 # get every test to pass before coding runner below #
 #####################################################
 
-def runner(deal_card)
+def runner
   welcome
   initial_round
   until initial_round > 21
